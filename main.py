@@ -3,7 +3,7 @@ import os
 import json
 from datetime import datetime
 
-# Import des modules (assure-toi que tes agents sont bien définis dans module2.py)
+
 try:
     import module2
 except ImportError as e:
