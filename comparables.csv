@@ -1,0 +1,4 @@
+address,sqft,bedrooms,bathrooms,lot_size,year_built,condition,sale_price
+123 Main St,2150,4,3,0.25,2014,Good,400000
+456 Oak Ave,2200,4,3,0.3,2016,Excellent,450000
+789 Pine Rd,2300,4,3,0.2,2015,Good,420000
